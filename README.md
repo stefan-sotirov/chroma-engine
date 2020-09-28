@@ -1,5 +1,5 @@
 # chroma-engine
-## portable game engine prototype    
+## portable game engine prototype  
 
 ### GLFW and GLEW
 #### Debian and Ubuntu
