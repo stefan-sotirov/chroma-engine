@@ -8,4 +8,4 @@ run `sudo apt install libglew-dev`
 compile with `gcc` and the following flags `-lGL -lGLEW -lglfw`
 
 #### Windows
-run make.bat in lib-win/
+run **make.bat** in lib-win/
