@@ -1,11 +1,11 @@
 ### chroma-engine
-##portable game engine prototype
+## portable game engine prototype
 
-##GLFW and GLEW
-#Debian and Ubuntu
+## GLFW and GLEW
+# Debian and Ubuntu
 run `sudo apt install libglfw3-dev`
 run `sudo apt install libglew-dev`
 compile with the following flags `gcc <filename.c> -lGL -lGLEW -lglfw`
 
-#Windows
+# Windows
 run make.bat in lib-win/
