@@ -5,7 +5,7 @@
 #### Debian and Ubuntu
 run `sudo apt install libglfw3-dev`  
 run `sudo apt install libglew-dev`  
-compile with the following flags `gcc <filename.c> -lGL -lGLEW -lglfw`
+compile with `gcc` and the following flags `-lGL -lGLEW -lglfw`
 
 #### Windows
 run make.bat in lib-win/
