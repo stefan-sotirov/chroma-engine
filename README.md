@@ -1,4 +1,4 @@
-# chroma-engine
+# grau
 ## portable game engine prototype  
 
 ### GLFW and GLEW
